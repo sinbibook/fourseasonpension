@@ -133,14 +133,8 @@ var HeaderFooterLoader = {
 
     // layout-map 페이지 체크
     if (filename === 'layout-map') {
-      var layoutEnabled = (data.homepage &&
-                           data.homepage.customFields &&
-                           data.homepage.customFields.pages &&
-                           data.homepage.customFields.pages.layoutMap &&
-                           data.homepage.customFields.pages.layoutMap.sections &&
-                           data.homepage.customFields.pages.layoutMap.sections[0] &&
-                           data.homepage.customFields.pages.layoutMap.sections[0].enabled) !== false;
-      if (!layoutEnabled) {
+      // 헤더 「미리보기」 / room.html 객실 탭 「미리보기」 숨김과 같은 기준(BaseMapper.isLayoutMapEnabled)
+      if (!BaseMapper.isLayoutMapEnabled(data)) {
         window.location.href = '404.html';
         return;
       }

@@ -137,13 +137,9 @@ var HeaderFooterMapper = {
                                     data.homepage.customFields.pages.nearbyAttractions.sections[0] &&
                                     data.homepage.customFields.pages.nearbyAttractions.sections[0].enabled) !== false;
 
-    var layoutMapEnabled = (data.homepage &&
-                            data.homepage.customFields &&
-                            data.homepage.customFields.pages &&
-                            data.homepage.customFields.pages.layoutMap &&
-                            data.homepage.customFields.pages.layoutMap.sections &&
-                            data.homepage.customFields.pages.layoutMap.sections[0] &&
-                            data.homepage.customFields.pages.layoutMap.sections[0].enabled) !== false;
+    // layout-map.html 의 404 기준과 같은 판정 (BaseMapper.isLayoutMapEnabled)
+    // ⚠️ 대메뉴 ROOMS 자체는 링크가 아니라 서브메뉴 토글(javascript:void(0))이라 이동처를 바꿀 것이 없다.
+    var layoutMapEnabled = BaseMapper.isLayoutMapEnabled(data);
 
     // 1. 로고 이미지 매핑
     var logoElement = document.querySelector('[data-logo]');
@@ -383,10 +379,44 @@ var HeaderFooterMapper = {
     });
   },
 
+  // MAPPER: customFields.footer.ruralStayMark → [data-footer-rural-stay-mark] (로고 아래, 연락처 정보 위)
+  // 농어촌민박사업자 이미지가 있을 때만 노출하고, 없으면 숨겨 기존 푸터와 같다.
+  // 프리뷰는 같은 페이지에서 다시 매핑하므로 매번 표시 상태를 되돌린다.
+  mapRuralStayMark: function(data) {
+    var cf = (data && data.homepage && data.homepage.customFields) || {};
+    var footerMarks = (cf.footer || {});
+    var marks = Array.isArray(footerMarks.ruralStayMarks)
+      ? footerMarks.ruralStayMarks.slice(0, 2)
+      : [footerMarks.ruralStayMark];
+    var markUrl = marks.some(function (mark) { return mark && mark.url; });
+
+    document.querySelectorAll('[data-footer-rural-stay-mark-wrap]').forEach(function (wrap) {
+      wrap.style.display = markUrl ? '' : 'none';
+    });
+    document.querySelectorAll('[data-footer-rural-stay-mark-wrap]').forEach(function (wrap) {
+      var images = wrap.querySelectorAll('[data-footer-rural-stay-mark]');
+      var count = marks.filter(function (mark) { return mark && mark.url; }).length;
+      images.forEach(function (img, index) {
+        var mark = marks[index];
+        var url = mark && mark.url ? String(mark.url) : '';
+        img.style.display = url ? 'inline-block' : 'none';
+        img.style.maxWidth = count > 1 ? 'calc((100% - 12px) / 2)' : '';
+        img.style.marginLeft = index && url && marks[0] && marks[0].url ? '12px' : '';
+        if (!url) {
+          img.removeAttribute('src');
+          return;
+        }
+        img.src = url;
+        img.alt = (mark.description && String(mark.description).trim()) || '농어촌민박사업자';
+      });
+    });
+  },
+
   mapFooter: function(data) {
     if (!data || !data.property) return;
 
     this.mapCopyright(data);
+    this.mapRuralStayMark(data);
 
     var businessInfo = data.property.businessInfo || {};
     var phones = getPhoneListSafe(data.property.contactPhone);
