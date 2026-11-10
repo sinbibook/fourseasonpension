@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-11-09T08:29:31.766328346Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-11-10T01:46:37.060924021Z",
     "templateType": "trip_l",
     "propertyId": "8dfbd7d9-8d27-41d8-ac1d-246ea7965e4d",
     "homepageId": "01a0b207-1005-7b32-9036-8ac02b189c89"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n22시 이후 입실 시 사전 문의",
-    "usageGuide": "[공지사항]\n※ 애견동반은 불가하니 참고 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n22시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 13세 이상\n- 아동: 24개월 이상~13세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n[인원추가(1박기준/현장결제)]\n- 성인(13세 이상~): 1인 20,000원 \n- 아동(24개월 이상~13세 미만): 1인 20,000원\n- 유아(24개월 미만):  무료/ 인원에는 포함\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불 / 항아리\n- 이용 요금: 숯불- 8인 기준 40,000원, 1인 추가 시 5,000원(1박기준/현장결제) / 항아리- 80,000원(인원 수 무관)(1박기준/현장결제)\n- 신청 시간: 15:00 ~ 21:00 \n- 이용 시간: 15:00 ~ 22:00 \n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 가능\n※ 개인 화기(숯, 그릴, 바베큐장비 등) 안전 사고 예방을 위해 반입 금지 및 사용 금지 바랍니다.\n※ 항아리 바베큐 이용 시 이용하기 2시간 전까지 사전예약 필수\n※ 독채 고객님들 편하게 드실 수 있게 고기 구이 사장님이 직접 해드릴 수 있습니다.\n※ 사계를 찾아주신 고객님을 위한 사장의 작은 마음입니다. (장보기 구매대행 가능, 우리 고객님은 마음 편하게 즐기세요.)\n\n[개별수영장]\n[유아용 풀장]\n- 2026년 하절기에 운영\n- 해당 객실 : 2층 안채\n※ 하절기 운영/ 날씨 및 현장상황 따라 이용이 불가할 수 있습니다.\n\n[불멍]\n[기본정보]\n- 이용 객실: 전객실\n- 이용 장소: 각 객실 층에서 이용 가능, 단독독채 객실은 2층에서 이용가능\n- 이용 요금: 1set 30,000 원(장작 10kg 가량)(1박기준/현장결제)\n- 이용 시간: 15:00 ~ 23:00\n\n[부대시설]\n[텐트 테크]\n- 이용객실 : 2층 안채\n- 이용장소 : 바베큐장 옆\n- 이용요금 : 무료\n※ 개인텐트 지참 시 이용가능\n\n[갯벌체험]\n- 주소 : 충남 태안군 근흥면 용신리 915-13 용산어촌체험마을\n- 이용시간 : 오전 9시~오후 6시\n- 이용요금 :\n- 14세 이상 - 11,000원(정상가)\n- 37개월~13세 이하 - 5,500원(정상가)\n- 36개월 - 무료\n- 준비물 : 조개를 담을 수 있는 밀폐용기 및 개인 장갑\n※ 투숙객들에 한해 10% 할인된 금액으로 이용 가능\n\n[편의 및 주변 시설]\n[기본정보]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 넷플릭스 이용 가능\n※ 펜션 계정 제공\n[매점]\n- 세븐일레븐 운영\n- 각종 와인 및 양주, 보드카 구비 완료\n\n[주차장]\n[기본정보]\n- 주자창 보유\n\n[교통편]\n[대중교통 이용시]\n- 태안공영버스터미널에서 103번 버스 탑승 후 연포해수욕장에서 하차 후 도보 3분",
+    "usageGuide": "※ 애견동반은 불가하니 참고 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n22시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 13세 이상\n- 아동: 24개월 이상~13세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n[인원추가(1박기준/현장결제)]\n- 성인(13세 이상~): 1인 20,000원 \n- 아동(24개월 이상~13세 미만): 1인 20,000원\n- 유아(24개월 미만):  무료/ 인원에는 포함\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불 / 항아리\n- 이용 요금: 숯불- 8인 기준 40,000원, 1인 추가 시 5,000원(1박기준/현장결제) / 항아리- 80,000원(인원 수 무관)(1박기준/현장결제)\n- 신청 시간: 15:00 ~ 21:00 \n- 이용 시간: 15:00 ~ 22:00 \n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 가능\n※ 개인 화기(숯, 그릴, 바베큐장비 등) 안전 사고 예방을 위해 반입 금지 및 사용 금지 바랍니다.\n※ 항아리 바베큐 이용 시 이용하기 2시간 전까지 사전예약 필수\n※ 독채 고객님들 편하게 드실 수 있게 고기 구이 사장님이 직접 해드릴 수 있습니다.\n※ 사계를 찾아주신 고객님을 위한 사장의 작은 마음입니다. (장보기 구매대행 가능, 우리 고객님은 마음 편하게 즐기세요.)\n\n[개별수영장]\n[유아용 풀장]\n- 2026년 하절기에 운영\n- 해당 객실 : 2층 안채\n※ 하절기 운영/ 날씨 및 현장상황 따라 이용이 불가할 수 있습니다.\n\n[불멍]\n[기본정보]\n- 이용 객실: 전객실\n- 이용 장소: 각 객실 층에서 이용 가능, 단독독채 객실은 2층에서 이용가능\n- 이용 요금: 1set 30,000 원(장작 10kg 가량)(1박기준/현장결제)\n- 이용 시간: 15:00 ~ 23:00\n\n[부대시설]\n[텐트 테크]\n- 이용객실 : 2층 안채\n- 이용장소 : 바베큐장 옆\n- 이용요금 : 무료\n※ 개인텐트 지참 시 이용가능\n\n[갯벌체험]\n- 주소 : 충남 태안군 근흥면 용신리 915-13 용산어촌체험마을\n- 이용시간 : 오전 9시~오후 6시\n- 이용요금 :\n- 14세 이상 - 11,000원(정상가)\n- 37개월~13세 이하 - 5,500원(정상가)\n- 36개월 - 무료\n- 준비물 : 조개를 담을 수 있는 밀폐용기 및 개인 장갑\n※ 투숙객들에 한해 10% 할인된 금액으로 이용 가능\n\n[편의 및 주변 시설]\n[기본정보]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 넷플릭스 이용 가능\n※ 펜션 계정 제공\n[매점]\n- 세븐일레븐 운영\n- 각종 와인 및 양주, 보드카 구비 완료\n\n[주차장]\n[기본정보]\n- 주자창 보유\n\n[교통편]\n[대중교통 이용시]\n- 태안공영버스터미널에서 103번 버스 탑승 후 연포해수욕장에서 하차 후 도보 3분",
     "reservationGuide": "※ 애견동반은 불가하니 참고 부탁드립니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -123,64 +123,64 @@
         "displayOrder": 2,
         "images": [
           {
-            "id": "01a0b22c-15c0-729f-9a55-557f9a2f4563",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1789695628487-jqsc20jyhy.webp",
+            "id": "01a1c321-2ca4-7b83-90ed-2c9902e3dbbd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1794275093254-bxyav77kmh.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a0b22c-1627-7211-ab6f-bf30c56d0aea",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1789695628488-u99s7kewt6.webp",
+            "id": "01a1c321-2c95-7c9c-83b9-0bdf99b0adb1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1794275093257-rhbvxmq0q8.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a0b22c-1721-7946-9708-912a467b65ac",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1789695628490-12a7xdphg7.webp",
+            "id": "01a1c321-2c4a-7aba-a8d8-fa0eca5af695",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1794275093253-oqt5i7gyab.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a0b22c-1706-76b8-adcd-90948ef76fae",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1789695628490-f41w1p6qwu.webp",
+            "id": "01a1c321-2c27-7ebb-a6de-2220dae62818",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1794275093258-jclyt5tc79.jpg",
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a0b22c-160c-7c76-a378-8fe09231e49f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1789695628490-uiz8br8f99.webp",
+            "id": "01a1c321-2ca7-7ef6-a027-af8da559bfe9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1794275093263-4a30yajobw.jpg",
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a0b22c-1666-7135-8bab-876765d9d316",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1789695628491-uwvxzkc25k.webp",
+            "id": "01a1c321-2c9b-76d3-82aa-2d4026e9a425",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1794275093261-y85pow3vxh.jpg",
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a0b22c-175e-729e-a611-797ab8258966",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1789695628491-v1pysx55eg.webp",
+            "id": "01a1c321-2cb1-76cb-ba52-2cc41c9102a3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1794275093268-ja7bo4l7rp.jpg",
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a0b22c-1661-72bb-a019-d377202acc83",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1789695628491-8xbnj4t3un.webp",
+            "id": "01a1c321-2c54-71a7-acf1-5254b81d7195",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1794275093260-ru07gu3ndr.jpg",
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
@@ -387,7 +387,7 @@
           {
             "id": "01a0e5be-79e5-7749-a2d4-b189413597b4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/28/1XMu9G8lnmWB.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -397,7 +397,7 @@
           {
             "id": "8a6f7acc-93f1-46c8-b255-9f03eff7fa17",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/20/cX3ImQqWsf74.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -405,7 +405,7 @@
           {
             "id": "eb9ff045-a721-4f72-9b6b-3c2ad20443ae",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/20/ekFdcOH9Y2qJ.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -413,7 +413,7 @@
           {
             "id": "a2c10a4e-26cb-4928-b964-d754ebf2c936",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/14/G8huW9xvg6Jk.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -421,7 +421,7 @@
           {
             "id": "73a31ed2-52fa-4ce4-8a60-270ef479c521",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/20/M1dtSPRezGXf.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -429,7 +429,7 @@
           {
             "id": "53a107db-78ab-4aba-b6e3-60fbce6a1add",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/20/8vQAxsM4iYT0.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -437,7 +437,7 @@
           {
             "id": "68bde08d-4c19-47c3-877d-5b0570326a72",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/20/AUls25ePyXWB.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -445,7 +445,7 @@
           {
             "id": "ea6233d8-f399-4644-94f2-b3dbb2b3d37d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/20/fyEjSVkxAai3.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -453,7 +453,7 @@
           {
             "id": "09e42e66-e1e3-4ff4-8508-1bf27ad34411",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/20/M6T9m2J5Woaj.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -461,7 +461,7 @@
           {
             "id": "6e788098-33e2-4dde-a7dd-8a791bad7c32",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/20/umYlkApC1PH0.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -469,7 +469,7 @@
           {
             "id": "1c9f3d4e-370f-4a91-9254-e7b145f1351c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/20/1uZdarFPgctN.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -2254,12 +2254,12 @@
               }
             ],
             "slider": false,
+            "videos": [ ],
             "enabled": true,
             "endDate": null,
             "sortOrder": 0,
             "startDate": null,
-            "description": "",
-            "videos": [ ]
+            "description": ""
           },
           {
             "id": "a04642b8-a9fb-447f-ab89-d18ff733f962",
