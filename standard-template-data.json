@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-11-10T01:49:41.161607469Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-11-19T09:28:31.486850758Z",
     "templateType": "trip_l",
     "propertyId": "8dfbd7d9-8d27-41d8-ac1d-246ea7965e4d",
     "homepageId": "01a0b207-1005-7b32-9036-8ac02b189c89"
@@ -411,8 +411,8 @@
             "blockId": null
           },
           {
-            "id": "a2c10a4e-26cb-4928-b964-d754ebf2c936",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/14/G8huW9xvg6Jk.jpg",
+            "id": "01a1c327-ed6d-7b4f-9eee-303752743a9b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/8dfbd7d9-8d27-41d8-ac1d-246ea7965e4d/exterior/1794275535730-af0nlcrprs.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
@@ -2255,7 +2255,7 @@
             ],
             "slider": false,
             "videos": [ ],
-            "enabled": true,
+            "enabled": false,
             "endDate": null,
             "sortOrder": 0,
             "startDate": null,
@@ -3326,7 +3326,8 @@
         }
       ],
       "footer": {
-        "ruralStayMark": null
+        "ruralStayMark": null,
+        "ruralStayMarks": [ ]
       }
     }
   }
