@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.13.0",
-    "generatedAt": "2026-11-19T09:46:38.301439645Z",
+    "version": "1.14.0",
+    "generatedAt": "2026-11-27T09:28:26.633624374Z",
     "templateType": "trip_l",
     "propertyId": "8dfbd7d9-8d27-41d8-ac1d-246ea7965e4d",
     "homepageId": "01a0b207-1005-7b32-9036-8ac02b189c89"
@@ -131,8 +131,8 @@
             "blockId": null
           },
           {
-            "id": "01a1c321-2c95-7c9c-83b9-0bdf99b0adb1",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1794275093257-rhbvxmq0q8.jpg",
+            "id": "01a21c55-7f19-707a-a01b-4c2aa9c57595",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1795771694449-hnmp3xvnia.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
@@ -147,16 +147,16 @@
             "blockId": null
           },
           {
-            "id": "01a1c321-2c27-7ebb-a6de-2220dae62818",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1794275093258-jclyt5tc79.jpg",
+            "id": "01a21c50-aebf-7df4-880b-dec0497065a0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1795771379084-d1xqbczn16.jpg",
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1c321-2ca7-7ef6-a027-af8da559bfe9",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1794275093263-4a30yajobw.jpg",
+            "id": "01a21c50-af2e-7e35-b125-0331fa56ded0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1795771379089-jswfwggmyw.jpg",
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
@@ -171,16 +171,16 @@
             "blockId": null
           },
           {
-            "id": "01a1c321-2cb1-76cb-ba52-2cc41c9102a3",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1794275093268-ja7bo4l7rp.jpg",
+            "id": "01a21c50-afb5-7933-97ee-f42fe2ad30e5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1795771379088-vswmnijg18.jpg",
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1c321-2c54-71a7-acf1-5254b81d7195",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1794275093260-ru07gu3ndr.jpg",
+            "id": "01a21c50-aeee-728e-9b4d-0130e72e6479",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e4ddec9-3b3b-4327-87a5-87e19609fe7e/main/1795771379089-y0e0vj5t2d.jpg",
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
@@ -411,8 +411,8 @@
             "blockId": null
           },
           {
-            "id": "01a1c327-ed6d-7b4f-9eee-303752743a9b",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/8dfbd7d9-8d27-41d8-ac1d-246ea7965e4d/exterior/1794275535730-af0nlcrprs.jpg",
+            "id": "01a2159b-7e8c-7ba4-9b86-5db8a4b33f37",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/14/G8huW9xvg6Jk.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
